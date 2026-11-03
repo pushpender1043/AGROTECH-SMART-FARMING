@@ -12,7 +12,7 @@
 
 > **"A comprehensive platform modernizing agriculture through AI disease detection, weather forecasting, and smart financial planning."**
 
-[🌐 Live Demo](https://agrotech-smart-farming.vercel.app/) · [🐞 Report Issue](https://github.com/pushpender1043/AGROTECH-SMART-FARMING/issues) 
+[🌐 Live Demo](https://agro-tech-smart-farming.vercel.app/) · [🐞 Report Issue](https://github.com/pushpender1043/AGROTECH-SMART-FARMING/issues) 
 
 </div>
 
